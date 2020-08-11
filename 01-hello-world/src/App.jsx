@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function App() {
   return (
-    <div className="App">
+    <React.Fragment>
       <h1>Hello World</h1>
-    </div>
+    </React.Fragment>
   );
 }
